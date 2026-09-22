@@ -1,0 +1,6 @@
+order_id,customer,quantity,price
+1001,John,5,20
+1002,Sarah,3,ABC
+1003,David,10,15
+1004,Maria,,100
+1005,James,4,25
