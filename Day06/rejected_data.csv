@@ -1,0 +1,6 @@
+id,name,department,salary,rejected_reason
+2006,,IT,80000,Missing Name
+2007,Michael,Finance,ABC,Invalid Salary
+2008,Sophia,,65000,Missing Department
+2009,Daniel,HR,,Missing Salary
+2010,Robert,IT,-5000,Negative Salary

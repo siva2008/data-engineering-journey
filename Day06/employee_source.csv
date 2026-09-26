@@ -1,0 +1,11 @@
+id,name,department,salary
+2001,Alex,IT,75000
+2002,Emma,Finance,85000
+2003,Tom,HR,70000
+2004,Olivia,IT,78000
+2005,Chris,Sales,72000
+2006,,IT,80000
+2007,Michael,Finance,ABC
+2008,Sophia,,65000
+2009,Daniel,HR,
+2010,Robert,IT,-5000
