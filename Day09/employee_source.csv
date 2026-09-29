@@ -1,0 +1,9 @@
+id,name,department,salary
+3001,Robert,IT,78000
+3002,Lisa,Finance,85000
+3003,Michael,HR,72000
+3004,Jennifer,IT,91000
+3005,David,Sales,68000
+3006,,IT,75000
+3007,Thomas,Finance,-5000
+3008,Susan,Marketing,82000

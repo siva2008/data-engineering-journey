@@ -1,0 +1,3 @@
+id,name,department,salary,reason
+3006,,IT,75000,Name is missing
+3007,Thomas,Finance,-5000,Salary cannot be negative
